@@ -6,4 +6,6 @@ instructions :
 2. use only lower case for format i.e. ebook,book,cd,dvd
 3. new data entery example : all should be in one line with space saparating each element
 for example: 
-  123 titleName AuthorName Genre Format DIscription
+ 
+ 
+" 123 titleName AuthorName Genre Format DIscription "
